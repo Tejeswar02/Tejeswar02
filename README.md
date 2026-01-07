@@ -104,8 +104,8 @@ Hi, I’m Tejeswar Mishra.<br>A passionate learner interested in web development
 
 ---
 
-## ✨ Contribution Graph
-## [![Suchitra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suchitra-sahoo&bg_color=0d1117&color=00f7ff&line=8a2be2&point=00f7ff&area=true&hide_border=true)](https://github.com/suchitra-sahoo)
+<!-- ## ✨ Contribution Graph
+## [![Suchitra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suchitra-sahoo&bg_color=0d1117&color=00f7ff&line=8a2be2&point=00f7ff&area=true&hide_border=true)](https://github.com/suchitra-sahoo) -->
 
 -
 
