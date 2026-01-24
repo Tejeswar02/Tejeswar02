@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: tejeswarmishra02@gmail.com
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1OooF17CLd4eSZtAy67e8wsN-bX87Eqwx/view?usp=drive_link)
 - ⚡ Fun fact: I love to Code
--->
-
 
 # 💫 About Me:
 Hi, I’m Tejeswar Mishra.<br>A passionate learner interested in web development. <br>I enjoy building simple, user-friendly projects using HTML, CSS, and JavaScript. <br>I’m always eager to improve my skills and learn new technologies.
